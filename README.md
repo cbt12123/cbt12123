@@ -1,1 +1,1 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbt12123&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged&available_locales=cn)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cbt12123&show_icons=true&theme=tokyonight&show=reviews,discussions_started,discussions_answered,prs_merged)](https://github.com/anuraghazra/github-readme-stats)
